@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_desc">Permite al Auto Escritor detectar cuando hay un campo de texto enfocado. No reemplaza tu teclado. Solo escribe cuando pulsas INICIAR.</string>
+</resources>
