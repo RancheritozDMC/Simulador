@@ -1,0 +1,2 @@
+# Simulador
+Es un simulador
